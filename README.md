@@ -43,5 +43,6 @@ Thursday
     download playwrite mcp
     Microsoft agent framework
     Semantic kerner works better
-    
+    Designing AI Agents and Agentic AI Solutions Ask him to send the demo about the agents
 
+    https://github.com/AllenConway/PWAWeatherApp
