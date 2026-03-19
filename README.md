@@ -34,3 +34,14 @@ Wednesday
     SQL mcp server
     perfect for us
     https://learn.microsoft.com/en-us/azure/data-api-builder/mcp/    
+
+Thursday
+    copilot studio (needs access probably cloudops)
+    agent can also connect to azure sql.. (try it out)
+    we can apply an agent to User Registration. 
+
+    download playwrite mcp
+    Microsoft agent framework
+    Semantic kerner works better
+    
+
